@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+
+.p{
+	display:flex;
+	flex-direction: row-reverse;
+	justify-content:space-between;
+	flex-wrap: wrap;
+}
+.p1{
+	width: 100px;
+	height:100px;
+	font-size:64px;
+}
+
+#c1{
+	background-color: red;
+}
+
+#c2{
+	background-color: blue;
+}
+#c3{
+	background-color: green;
+}
